@@ -1,6 +1,6 @@
 package n1exercici1;
 
-public class EmptySaleException extends ArrayIndexOutOfBoundsException {
+public class EmptySaleException extends Exception {
     public EmptySaleException (String message) {
         super (message);
     }

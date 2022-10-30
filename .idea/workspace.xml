@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d0fde784-2b9d-4f7f-b343-1659dacee09f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici1/EmptySaleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/EmptySaleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/n1exercici1/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Sale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +80,32 @@
       <option name="project" value="LOCAL" />
       <updated>1667169046961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="He resuelto algo el lío, pero sigo sin estar satisfecho. ¿Hay forma de hacerlo sin el if?">
+      <created>1667170864392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667170864392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Planteamiento del ejercicio, órdenes primer párrafo" />
     <MESSAGE value="código sin excepción" />
     <MESSAGE value="tengo un lío tremendo" />
-    <option name="LAST_COMMIT_MESSAGE" value="tengo un lío tremendo" />
+    <MESSAGE value="He resuelto algo el lío, pero sigo sin estar satisfecho. ¿Hay forma de hacerlo sin el if?" />
+    <option name="LAST_COMMIT_MESSAGE" value="He resuelto algo el lío, pero sigo sin estar satisfecho. ¿Hay forma de hacerlo sin el if?" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/n1exercici1/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

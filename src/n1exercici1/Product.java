@@ -8,6 +8,11 @@ public class Product {
         return name;
     }
 
+    public Product(String name, float price) {
+        this.name = name;
+        this.price = price;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
