@@ -4,4 +4,16 @@ import java.util.ArrayList;
 
 public class Sale {
     private ArrayList <Product> productList;
+    private float totalCost;
+
+    public void calculateTotal() {
+        try {
+            float total = 0;
+            for (int i = 0; i < productList.size() ; i++) {
+                total += productList.get(i).getPrice();
+
+            }
+        }
+
+    }
 }
